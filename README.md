@@ -7,7 +7,7 @@ You will play as White and the AI will play as Black. May the best player win!
 ### Dependencies
 
 - Python 3.x
-- A API Key from [Google AI Studio](https://aistudio.google.com/)
+- An API Key from [Google AI Studio](https://aistudio.google.com/)
 
 **Usage:**
 
